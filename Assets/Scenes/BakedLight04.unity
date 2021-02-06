@@ -225,7 +225,7 @@ GameObject:
   - component: {fileID: 1261454029}
   - component: {fileID: 1261454028}
   m_Layer: 0
-  m_Name: LightProp
+  m_Name: LightProbe
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
